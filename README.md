@@ -28,11 +28,7 @@ https://www.kaggle.com/datasets/ucupsedaya/gojek-app-reviews-bahasa-indonesia
 
 ## Video Penjelasan
 
-Link YouTube: *(isi jika ada)*
-
-## Repository GitHub
-
-https://github.com/username/KomputasiAwanProjek
+Link YouTube: https://youtu.be/qvPVgMWu82s
 
 ## Author
 
